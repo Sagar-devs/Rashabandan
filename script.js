@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let modalTimeout;
 
     // Define the deadline
-    const deadline = new Date(2024, 7, 19, 12, 0, 0); // 19 July 2024, 7 AM
+    const deadline = new Date(2024, 6, 19, 10, 2, 0); // 19 July 2024, 7 AM
 
     function createHeart() {
         const heart = document.createElement('div');
